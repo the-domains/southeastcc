@@ -1,0 +1,23 @@
+name: southeastcc
+favicon: null
+layout_spectrum: 0.6038727252744138
+typography_spectrum: 0.5895318274851888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8885501201730222
+  lightness: 0.769675035495311
+  saturation: 0.23345332290045917
+  rhythmicContrast: 0.7316202844958752
+purpose: []
